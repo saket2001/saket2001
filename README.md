@@ -47,7 +47,7 @@
 
 GitHub Stats
 
-  <img align="left" alt="Saket's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saket2001&show_icons=true&hide_border=true" />
+  <img align="left" alt="Saket's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saket2001&show_icons=true&hide_border=true&bg_color=#3d3d3d" />
 
 ---
 
