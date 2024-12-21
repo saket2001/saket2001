@@ -1,12 +1,11 @@
-### Hi there, I'm Saket 👋😎
+### Hi there, I'm Saket Chandorkar👋😎
 
 [![Website](https://img.shields.io/website?label=saket-portfolio-2022&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://saket-portfolio-2022.netlify.app/)
 
-## I'm a IT Student, Self Taught Web Developer And More...
+## I'm an Associate Software Engineer at TSS Private Ltd, a Self-Taught Web Developer, Curious about how things work and more...
 
-- 📖 I’m currently learning UI/UX and nodejs
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 20201 Goals: Start Contributing to Open Source projects And Practice more problem solving
+- 📖 I’m currently learning the .Net framework and improving my MERN Stack knowledge
+- 🥅 2025 Goals: Start Contributing to open-source projects And Practice more problem-solving
 - ⚡ Fun fact: I love to watch movies and series and read books
 
 ### Connect with me:
